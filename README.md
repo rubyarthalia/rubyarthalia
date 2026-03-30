@@ -1,39 +1,84 @@
-# 💫 About Me:
-Helloo~ I’m an Information Systems student at Universitas Ciputra Surabaya with a strong interest in data. I’m exploring the world of Data Analytics and Data Science, constantly learning how to turn data into meaningful insights. I like creating small, fun projects based on my interests; it’s how I experiment, learn, and improve. Right now, I’m building my skills and looking for an internship to kickstart my career in data.
+<h1 align="center">Hi, I'm Ruby 👋</h1>
+<p align="center">
+  Information Systems Student • Aspiring Data Analyst / Data Scientist
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=rubyarthalia&icon=4&color=6)](https://visitcount.itsvg.in)
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rubyarthalia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rubyarthalia) 
+## 💫 About Me
+I’m an Information Systems student at Universitas Ciputra Surabaya with a strong interest in data.  
+I enjoy exploring Data Analytics and Data Science, learning how to turn raw data into meaningful insights.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+I like building small, fun projects based on my interests — it’s how I experiment, learn, and improve.
+
+📌 Currently focusing on:
+- Data analytics & visualization  
+- Machine learning fundamentals  
+- Building a strong data portfolio  
+
+🎯 Currently looking for: **Data-related internship opportunities**
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/rubyarthalia">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/rubyarthalia">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 📊 Data & Analytics
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
+
+### 🌐 Development
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel)
+![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp)
+
+### 🗄️ Database & Cloud
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud)
+
+### 🎨 Tools
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/rubyarthalia">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=rubyarthalia&show_icons=true&count_private=true&theme=algolia" 
-      alt="Ruby's GitHub Stats" 
-      height="180"
-    />
-  </a>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rubyarthalia&show_icons=true&theme=algolia" 
+    height="170"
+  />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=rubyarthalia&layout=compact&theme=algolia" 
-    alt="Top Languages" 
-    height="180"
+    height="170"
   />
 </p>
 
 <p align="center">
-  <i>Note: Top languages reflect repository distribution, not skill level.</i>
+  <i>Top languages reflect repository distribution, not skill level.</i>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rubyarthalia/rubyarthalia/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rubyarthalia/rubyarthalia/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rubyarthalia/rubyarthalia/output/github-contribution-grid-snake.svg">
-</picture>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rubyarthalia/rubyarthalia/output/github-contribution-grid-snake-dark.svg" />
+</p>
