@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ruby 👋</h1>
+<h1 align="center">Hello, I'm Ruby</h1>
 <p align="center">
   Information Systems Student • Aspiring Data Analyst / Data Scientist
 </p>
@@ -9,7 +9,7 @@
 I’m an Information Systems student at Universitas Ciputra Surabaya with a strong interest in data.  
 I enjoy exploring Data Analytics and Data Science, learning how to turn raw data into meaningful insights.
 
-I like building small, fun projects based on my interests — it’s how I experiment, learn, and improve.
+I like building small, fun projects based on my interests; it’s how I experiment, learn, and improve.
 
 📌 Currently focusing on:
 - Data analytics & visualization  
@@ -34,29 +34,29 @@ I like building small, fun projects based on my interests — it’s how I exper
 
 ## 💻 Tech Stack
 
-### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
+### Data & Analytics
+![Python](https://img.shields.io/badge/Python-2E6F95?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3C8DAD?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-5DADE2?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-85C1E9?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-AED6F1?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-### 🌐 Development
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
-![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel)
-![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp)
+### Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F39C12?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E67E22?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-D35400?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-C0392B?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-A93226?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🗄️ Database & Cloud
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql)
-![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud)
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-1F618D?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-2874A6?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🎨 Tools
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
+### Tools
+![Figma](https://img.shields.io/badge/Figma-8E44AD?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-9B59B6?style=for-the-badge&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-BF55EC?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-D2B4DE?style=for-the-badge&logo=github&logoColor=black)
 
 ---
 
