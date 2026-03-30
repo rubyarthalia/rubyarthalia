@@ -9,14 +9,27 @@ Helloo~ I’m an Information Systems student at Universitas Ciputra Surabaya wit
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ruby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rubyarthalia&show_icons=true&count_private=true&theme=algolia" height="192px"></a>
-    <br>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marvrch&show_icons=true&locale=en&layout=compact&theme=algolia" alt="rubyarthalia" height="192px">
-    <br>
-    <b>Note:</b> Top languages is a metric of the languages in my repos and doesn't reflect experience or skill level.
-  </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/rubyarthalia">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=rubyarthalia&show_icons=true&count_private=true&theme=algolia" 
+      alt="Ruby's GitHub Stats" 
+      height="180"
+    />
+  </a>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rubyarthalia&layout=compact&theme=algolia" 
+    alt="Top Languages" 
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <i>Note: Top languages reflect repository distribution, not skill level.</i>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rubyarthalia/rubyarthalia/output/github-contribution-grid-snake-dark.svg">
