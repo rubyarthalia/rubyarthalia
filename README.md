@@ -59,15 +59,14 @@ Currently looking for: **Data-related internship opportunities**
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rubyarthalia&show_icons=true&theme=algolia" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rubyarthalia&show_icons=true&theme=algolia" 
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rubyarthalia&layout=compact&theme=algolia" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rubyarthalia&layout=compact&theme=algolia" 
     height="170"
   />
 </p>
-
 <p align="center">
   <i>Top languages reflect repository distribution, not skill level.</i>
 </p>
