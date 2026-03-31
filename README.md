@@ -62,8 +62,8 @@ Currently looking for: **Data-related internship opportunities**
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rubyarthalia&theme=radical" height="170"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rubyarthalia&layout=compact&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=rubyarthalia&theme=radical" width="50%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rubyarthalia&layout=compact&theme=radical" width="36%"/>
 </p>
 
 <p align="center">
