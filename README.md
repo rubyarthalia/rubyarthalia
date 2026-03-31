@@ -19,6 +19,10 @@ Currently looking for: **Data-related internship opportunities**
 
 ---
 
+![](https://komarev.com/ghpvc/?username=rubyarthalia&style=for-the-badge&color=ffadad)
+
+---
+
 ## 🌐 Connect With Me
 <p>
   <a href="https://instagram.com/rubyarthalia">
@@ -55,18 +59,13 @@ Currently looking for: **Data-related internship opportunities**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rubyarthalia&show_icons=true&theme=algolia&cache_seconds=86400" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rubyarthalia&layout=compact&theme=algolia&cache_seconds=86400" 
-    height="170"
-  />
+  <img src="https://streak-stats.demolab.com?user=rubyarthalia&theme=radical" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rubyarthalia&layout=compact&theme=radical" height="170"/>
 </p>
+
 <p align="center">
   <i>Top languages reflect repository distribution, not skill level.</i>
 </p>
